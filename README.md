@@ -1,2 +1,2 @@
-# Automa-o-de-teste-Api
+# Automacao-de-teste-Api
 Projeto de automação de teste utilizando a linguagem Ruby com os frameworks: Rspec, HttParty, Cucumber, BDD, Capybara, entre outras coisas...
